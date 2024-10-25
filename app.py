@@ -11,13 +11,11 @@ def home():
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Viewport Width</title>
-        <link rel="icon" type="image/x-icon" href="Pictures/favicon.ico">
-        <link rel="stylesheet" href="practice.css">
     </head>
     <body>
-        <div id="Section1"></div>
-        <div id="Section2"></div>
-        <div id="Section3"></div>
+        <div id="Section1">Hello</div>
+        <div id="Section2">Testing</div>
+        <div id="Section3">Azure Web App</div>
     </body>
     </html>
     """
